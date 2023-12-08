@@ -1,4 +1,4 @@
-## webpack-template
+# webpack-template
 
 webpack 5 + EJS + TypeScript + Sass スターターキット
 
@@ -8,7 +8,7 @@ webpack 5 + EJS + TypeScript + Sass スターターキット
 
 ### 利用アーキテクチャ・バージョン
 
-node: v18.19.0
+node: v18.19.0  
 Yarn: v4.0.2
 
 ### 各種コマンド
@@ -47,8 +47,8 @@ yarn dev
 yarn build
 ```
 
-上記コマンドで /public/ ディレクトリに吐きだれる
-<small>※ 必ず納品時にこのコマンドを実行してください。</small>
+上記コマンドで /public/ ディレクトリに吐きだれる  
+※ 必ず納品時にこのコマンドを実行してください。
 
 #### キャッシュクリア
 
